@@ -6,4 +6,5 @@
 Презентация:
 Экран «Зареги» показывает адреса приютов, контакты и форму для связи. 
 Пользователь может сразу написать письмо или узнать, где находится ближайший филиал
-[![My Artto-Big](images/https://github.com/arbuz-tesak/ARTTO-BIG/blob/main/arto%20ex.png?raw=true)](file:///C:/Users/Admin/Downloads/Artpro-html/html/testimonial.html)
+![Image Alt]((file:///C:/Users/Admin/Downloads/Artpro-html/html/testimonial.html))
+(file:///C:/Users/Admin/Downloads/Artpro-html/html/testimonial.html)
